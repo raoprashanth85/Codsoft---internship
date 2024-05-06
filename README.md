@@ -13,6 +13,9 @@
 
 ## Task-2:
 ### Portfolio
+### This portfolio is intended to showcase my skills, experiences, and projects to potential employers, clients, or collaborators. It provides a comprehensive overview of my capabilities and serves as a platform to demonstrate my expertise in various areas.
 
 ## Task-3:
 ## Calculator
+
+###The calculator is a simple yet powerful tool designed to perform basic arithmetic operations quickly and efficiently. It supports addition, subtraction, multiplication, and division, as well as more advanced functions such as exponentiation and square root.
