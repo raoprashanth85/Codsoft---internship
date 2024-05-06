@@ -18,4 +18,4 @@
 ## Task-3:
 ## Calculator
 
-###The calculator is a simple yet powerful tool designed to perform basic arithmetic operations quickly and efficiently. It supports addition, subtraction, multiplication, and division, as well as more advanced functions such as exponentiation and square root.
+### The calculator is a simple yet powerful tool designed to perform basic arithmetic operations quickly and efficiently. It supports addition, subtraction, multiplication, and division, as well as more advanced functions such as exponentiation and square root.
